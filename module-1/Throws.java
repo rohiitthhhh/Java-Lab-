@@ -1,4 +1,4 @@
-class Age
+class Throws
 {
     static void checkAge(int age) throws Exception
     {

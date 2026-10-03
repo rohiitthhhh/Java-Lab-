@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class ArraySumAverage
+class SumAverageArray
 {
     public static void main(String[] args)
     {

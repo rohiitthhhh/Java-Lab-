@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class LargestTwo
+class LargestNewnNumber
 {
     public static void main(String[] args)
     {

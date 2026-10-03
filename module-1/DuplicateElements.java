@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class ArrayDisplay
+class DuplicateElements
 {
     public static void main(String[] args)
     {
@@ -12,6 +12,12 @@ class ArrayDisplay
             a[i] = sc.nextInt();
 
         for(int i = 0; i < n; i++)
-            System.out.println(a[i]);
+        {
+            for(int j = i + 1; j < n; j++)
+            {
+                if(a[i] == a[j])
+                    System.out.println(a[i]);
+            }
+        }
     }
 }

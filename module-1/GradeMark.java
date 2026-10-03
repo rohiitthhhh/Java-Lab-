@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Grade
+class GradeMark
 {
     public static void main(String[] args)
     {

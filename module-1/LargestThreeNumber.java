@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class LargestThree
+class LargestThreeNumber
 {
     public static void main(String[] args)
     {

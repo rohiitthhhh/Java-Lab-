@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class SmallestArray
+class ReadArray
 {
     public static void main(String[] args)
     {
@@ -11,14 +11,7 @@ class SmallestArray
         for(int i = 0; i < n; i++)
             a[i] = sc.nextInt();
 
-        int small = a[0];
-
-        for(int i = 1; i < n; i++)
-        {
-            if(a[i] < small)
-                small = a[i];
-        }
-
-        System.out.println(small);
+        for(int i = 0; i < n; i++)
+            System.out.println(a[i]);
     }
 }

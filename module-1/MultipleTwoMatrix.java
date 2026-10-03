@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class MatrixMultiplication
+class MultipleTwoMatrix
 {
     public static void main(String[] args)
     {

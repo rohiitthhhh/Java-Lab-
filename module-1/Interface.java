@@ -19,7 +19,7 @@ class Teacher implements Printable
     }
 }
 
-class Main
+class Interface
 {
     public static void main(String[] args)
     {

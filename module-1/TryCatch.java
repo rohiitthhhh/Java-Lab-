@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Division
+class TryCatch
 {
     public static void main(String[] args)
     {

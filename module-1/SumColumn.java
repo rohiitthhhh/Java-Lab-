@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class ColumnSum
+class SumColumn
 {
     public static void main(String[] args)
     {

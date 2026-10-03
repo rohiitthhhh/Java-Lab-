@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class MultipleException
+class MultipleExceptions
 {
     public static void main(String[] args)
     {

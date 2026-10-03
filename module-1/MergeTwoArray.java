@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class MergeArray
+class MergeTwoArray
 {
     public static void main(String[] args)
     {

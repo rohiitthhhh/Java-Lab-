@@ -22,7 +22,7 @@ class Rectangle extends Shape
     }
 }
 
-class Main
+class Dispatch
 {
     public static void main(String[] args)
     {

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class MatrixLargeSmall
+class LargestandSmallest2DArray
 {
     public static void main(String[] args)
     {

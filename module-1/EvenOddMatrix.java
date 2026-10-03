@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class MatrixEvenOdd
+class EvenOddMatrix
 {
     public static void main(String[] args)
     {

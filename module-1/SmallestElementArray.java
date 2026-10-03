@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Duplicate
+class SmallestElementArray
 {
     public static void main(String[] args)
     {
@@ -11,13 +11,14 @@ class Duplicate
         for(int i = 0; i < n; i++)
             a[i] = sc.nextInt();
 
-        for(int i = 0; i < n; i++)
+        int small = a[0];
+
+        for(int i = 1; i < n; i++)
         {
-            for(int j = i + 1; j < n; j++)
-            {
-                if(a[i] == a[j])
-                    System.out.println(a[i]);
-            }
+            if(a[i] < small)
+                small = a[i];
         }
+
+        System.out.println(small);
     }
 }

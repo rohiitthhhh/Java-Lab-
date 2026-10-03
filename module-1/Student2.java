@@ -8,7 +8,7 @@ interface Academics
     void academics();
 }
 
-class Student implements Sports, Academics
+class Student2 implements Sports, Academics
 {
     public void sports()
     {
