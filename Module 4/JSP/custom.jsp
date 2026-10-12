@@ -1,0 +1,1 @@
+<%@ page contentType="text/html; charset=UTF-8" %><%@ taglib uri="/WEB-INF/studenttag.tld" prefix="st" %><html><body><h2>Custom Tag Library</h2><st:studentInfo name="Achyuth" rollNo="23" course="MCA"/><br><st:studentInfo name="Naveen" rollNo="24" course="MCA"/></body></html>
